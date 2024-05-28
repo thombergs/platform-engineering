@@ -1,0 +1,2 @@
+spring.application.name: platform-engineering
+profile-specific-property: default
