@@ -1,2 +1,3 @@
 io.reflectoring.platform.defaultproperties.TracingAutoConfiguration
 io.reflectoring.platform.sqsproperties.SqsQueuePropertiesAutoConfiguration
+io.reflectoring.platform.flyway.FlywayAutoConfiguration

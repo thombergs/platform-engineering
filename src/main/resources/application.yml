@@ -1,2 +1,10 @@
 spring.application.name: platform-engineering
 profile-specific-property: default
+management:
+  endpoints:
+    web:
+      exposure:
+        include: flywayMigrate
+  endpoint:
+    flywayMigrate:
+      enabled: true
